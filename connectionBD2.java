@@ -34,7 +34,7 @@ public class connectionBD {
 			
 		}
 		catch (Exception e) {
-			System.out.println("***ATENCION***"+e.getMessage());
+			System.out.println("***ATENCION----PROBANDO***"+e.getMessage());
 		}
 
 	}
